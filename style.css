@@ -1,5 +1,7 @@
 body {
     background-color: hsl(212, 45%, 89%);
+    position: relative;
+    width: 1440px;
   }
 .rect
 {
@@ -8,12 +10,12 @@ body {
     height : 400px;
     background-color: hsl(0, 0%, 100%);
     position: absolute;
-    left: 448px;
-    top: 110px;
+    left: 582px;
+    top: 520px;
 }
 .textstyle{
    position: absolute;
-   bottom: 3px;
+   bottom: 1px;
    left: 35px;
    right: 35px;
    text-align: center;
@@ -35,13 +37,13 @@ body {
     width : 250px;
     border-radius: 10px;
     position: absolute;
-    left: 460px;
-    top: 120px;
+    left: 595px;
+    top: 535px;
 }
 
 .attribution
 {
     position: absolute;
-    bottom: 0;
+    bottom: 1440;
     right: 418px;
 }
