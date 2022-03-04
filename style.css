@@ -4,18 +4,19 @@ body {
 .rect
 {
     border-radius: 20px;
-    width : 275px;
-    height : 425px;
+    width : 80%;
+    height : 430px;
     background-color: hsl(0, 0%, 100%);
     position: absolute;
-    left: 582px;
-    top: 194px;
+    left :10%;
+    top : 15%;
+    right: 15%;
 }
 .textstyle{
    position: absolute;
-   bottom: 20px;
-   left: 35px;
-   right: 35px;
+   bottom: 1%;
+   left: 10%;
+   right: 10%;
    text-align: center;
 }
 .p1{
@@ -32,18 +33,18 @@ body {
 }
 .dimension
 {
-    width : 250px;
+    width:90%;
     border-radius: 20px;
-    position: absolute;
-    left: 595px;
-    top: 213px;
+    position : absolute;
+    top: 5%;
+    left: 5%
 }
 
 .attribution
 {
     position: absolute;
-    bottom: 0px;
-    left : 550px;
-    width: 500px;
-    height: 22px;
+    left : 5%;
+    right : 5%;
+    bottom :5%;
+    width: 90%;
 }
